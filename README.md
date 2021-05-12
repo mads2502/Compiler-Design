@@ -1,18 +1,9 @@
 # Compiler-Design
 Compiler Design concepts in Lex and Yacc
 
-Compile using the following command
-
-lex filename.lex
 
 
-yacc -d filename.yacc
-
-gcc filename.tab.c lex.yy.c
-
-./a -to run the compiled files
-
-1.Calculator implementation using Lex and Yacc
+>1.Calculator implementation using Lex and Yacc
   
 
 2.Syntax Checker 
@@ -25,4 +16,16 @@ gcc filename.tab.c lex.yy.c
 
 
 5.All stages of compilations in single Lex and Yacc file
+
+
+>Compile using the following command
+
+lex filename.lex
+
+
+yacc -d filename.yacc
+
+gcc filename.tab.c lex.yy.c
+
+./a -to run the compiled files
 
