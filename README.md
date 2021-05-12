@@ -1,6 +1,6 @@
 # Compiler-Design
 
-#Compiler Design concepts in Lex and Yacc
+## Compiler Design concepts in Lex and Yacc
 
 
 
@@ -20,7 +20,7 @@
 5.All stages of compilations in single Lex and Yacc file
 ***
 
-#Execution Instructions
+## Execution Instructions
 >Compile using the following command
 
 lex filename.lex
