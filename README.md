@@ -1,4 +1,9 @@
 # Compiler-Design
 Compiler Design concepts in Lex and Yacc
 
-1.jdgc
+1.Calculator implementation using Lex and Yacc
+2.Syntax Checker 
+3.Three Address code generator
+4.Optimisation of TAC
+5.All stages of compilations in single Lex and Yacc file
+
